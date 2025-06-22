@@ -86,11 +86,12 @@ You can help shape this idea!
 
  Package as a browser extension
 
+
+
+```
 📄 License
 To be decided (MIT or Apache-2.0 once code is implemented)
 
 🌟 Inspiration
 GitHub is great — but navigating large projects is still tedious.
 GitHub Import Navigator hopes to bring IDE-like navigation to the browser.
-
-```
